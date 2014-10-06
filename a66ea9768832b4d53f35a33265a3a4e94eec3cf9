@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Akihiro Motoki <motoki@da.jp.nec.com>
+Workflow+1: Akihiro Motoki <motoki@da.jp.nec.com>
+Code-Review+2: Julie Pichon <jpichon@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 06 Oct 2014 06:51:45 +0000
+Reviewed-on: https://review.openstack.org/113487
+Project: stackforge/xstatic-d3
+Branch: refs/heads/master
